@@ -319,7 +319,7 @@ export default function Home() {
               </a>
             </div>
 
-            {/* Monospace shell prompt command */}
+            {/*
             <div className="mt-8 max-w-md mx-auto bg-charcoal/80 rounded border border-border-subtle/50 p-3 flex items-center justify-between font-mono text-[11px] text-text-secondary">
               <span className="text-left select-all overflow-x-auto whitespace-nowrap pr-2">
                 curl -sSL https://dataontologies.io/install.sh | sh
@@ -333,6 +333,9 @@ export default function Home() {
                 COPY
               </button>
             </div>
+            */}
+
+
           </section>
 
         </div>
